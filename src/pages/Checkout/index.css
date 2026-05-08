@@ -1,0 +1,27 @@
+.checkout-page {
+  padding: 40px 6%;
+  display: flex;
+  justify-content: center;
+}
+
+.checkout-card {
+  width: 100%;
+  max-width: 450px;
+  background: white;
+  padding: 30px;
+  border-radius: 18px;
+}
+
+.checkout-card input {
+  width: 100%;
+  padding: 13px;
+  margin-bottom: 14px;
+}
+
+.checkout-card button {
+  background: #e63946;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 20px;
+}

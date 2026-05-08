@@ -1,0 +1,26 @@
+.cart-page {
+  padding: 40px 6%;
+}
+
+.cart-item {
+  background: white;
+  display: flex;
+  gap: 20px;
+  padding: 16px;
+  border-radius: 16px;
+  margin-bottom: 16px;
+}
+
+.cart-item img {
+  width: 100px;
+  height: 130px;
+  object-fit: cover;
+}
+
+.cart-item button {
+  background: #e63946;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 20px;
+}
